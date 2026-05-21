@@ -25,7 +25,8 @@ The main goal of this project is to analyze student marks and understand their p
 - Some students performed very well across all subjects  
 - Total marks help in identifying the topper  
 - Grades make it easy to understand performance level  
-- Visualization helps compare students easily  
+- Visualization helps compare students easily
+- Ranking helps compare student performance more clearly  
 
 
 ## Conclusion
